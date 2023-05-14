@@ -1,1 +1,1 @@
-export const BASE_URL = 'https://fintell.onrender.com'
+export const BASE_URL = "https://fintell.onrender.com"
